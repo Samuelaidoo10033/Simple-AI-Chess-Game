@@ -1,0 +1,8 @@
+C:\Users\Samuel Aidoo\source\repos\Speech To Text\obj\Debug\Speech_To_Text.Form1.resources
+C:\Users\Samuel Aidoo\source\repos\Speech To Text\obj\Debug\Speech_To_Text.Properties.Resources.resources
+C:\Users\Samuel Aidoo\source\repos\Speech To Text\obj\Debug\Speech To Text.csproj.GenerateResource.cache
+C:\Users\Samuel Aidoo\source\repos\Speech To Text\bin\Debug\Speech To Text.exe.config
+C:\Users\Samuel Aidoo\source\repos\Speech To Text\bin\Debug\Speech To Text.exe
+C:\Users\Samuel Aidoo\source\repos\Speech To Text\bin\Debug\Speech To Text.pdb
+C:\Users\Samuel Aidoo\source\repos\Speech To Text\obj\Debug\Speech To Text.exe
+C:\Users\Samuel Aidoo\source\repos\Speech To Text\obj\Debug\Speech To Text.pdb
